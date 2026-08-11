@@ -1,4 +1,4 @@
-# CheckStrangsConjecture
+# Check Strang's Conjecture
 This code should be ran on Google Colab.  
 
 It includes four examples of meshes that we test Strang's conjecture for.  

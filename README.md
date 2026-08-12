@@ -15,6 +15,6 @@ Authored by:
 - Maurice Fabien, MIT
   -  mfabien@mit.edu
 -  Aranzazu Romero, CSULB
-  - Aranzazu.Romero01@student.csulb.edu
+    - Aranzazu.Romero01@student.csulb.edu
 - Renaldi-Bradley Bodombo, UMD
   - rbodombo@terpmail.umd.edu
